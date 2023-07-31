@@ -971,7 +971,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       },
@@ -979,7 +979,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       },
@@ -987,7 +987,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       }
@@ -1049,7 +1049,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/input/Input.tsx",
         "name": "*",
         "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       },
@@ -1057,7 +1057,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/input/Input.tsx",
         "name": "",
         "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       },
@@ -1065,33 +1065,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/input/Input.tsx",
         "name": "default",
         "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/login/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/login/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/login/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/login/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/login/page:static/chunks/app/login/page.js"
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       }
@@ -3202,7 +3176,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3210,7 +3184,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3218,7 +3192,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3226,7 +3200,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3234,7 +3208,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3242,7 +3216,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3298,7 +3272,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/input/Input.tsx",
       "name": "*",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3306,7 +3280,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/input/Input.tsx",
       "name": "",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
@@ -3314,31 +3288,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/input/Input.tsx",
       "name": "default",
       "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/app/login/page.tsx": {
-      "id": "(app-client)/./app/login/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/app/login/page.tsx#": {
-      "id": "(app-client)/./app/login/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/app/login/page.tsx#default": {
-      "id": "(app-client)/./app/login/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/login/page:static/chunks/app/login/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     }

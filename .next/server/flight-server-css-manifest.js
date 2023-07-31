@@ -13,10 +13,6 @@ self.__RSC_CSS_MANIFEST={
     "/Users/fgirse/Nextjs13-blog/app/register/page": [
       "/Users/fgirse/Nextjs13-blog/app/globals.css",
       "/Users/fgirse/Nextjs13-blog/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
-    "/Users/fgirse/Nextjs13-blog/app/login/page": [
-      "/Users/fgirse/Nextjs13-blog/app/globals.css",
-      "/Users/fgirse/Nextjs13-blog/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
   }
 }
