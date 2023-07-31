@@ -971,7 +971,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -979,7 +979,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -987,7 +987,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       }
@@ -1014,58 +1014,6 @@ self.__RSC_MANIFEST={
         "name": "TProvider",
         "chunks": [
           "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/register/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/register/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/register/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/register/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/input/Input.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/input/Input.tsx",
-        "name": "*",
-        "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/input/Input.tsx",
-        "name": "",
-        "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/input/Input.tsx",
-        "name": "default",
-        "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       }
@@ -3176,7 +3124,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -3184,7 +3132,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -3192,7 +3140,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -3200,7 +3148,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -3208,7 +3156,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -3216,7 +3164,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -3241,54 +3189,6 @@ self.__RSC_MANIFEST={
       "name": "TProvider",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/app/register/page.tsx": {
-      "id": "(app-client)/./app/register/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/app/register/page.tsx#": {
-      "id": "(app-client)/./app/register/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/app/register/page.tsx#default": {
-      "id": "(app-client)/./app/register/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/components/input/Input.tsx": {
-      "id": "(app-client)/./components/input/Input.tsx",
-      "name": "*",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/components/input/Input.tsx#": {
-      "id": "(app-client)/./components/input/Input.tsx",
-      "name": "",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "/Users/fgirse/Nextjs13-blog/components/input/Input.tsx#default": {
-      "id": "(app-client)/./components/input/Input.tsx",
-      "name": "default",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     }
